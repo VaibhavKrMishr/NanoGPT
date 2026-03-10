@@ -1,10 +1,10 @@
-# NanoGPT.C
+# NanoGPT
 
-**NanoGPT.C** is a minimal GPT-style transformer written in **pure C**.
+**NanoGPT** is a minimal GPT-style transformer written in **....**.
 
 ## 🧠 Project Goal
 
-Build a minimal, working version of a GPT-like transformer in **pure C** that can:
+Build a minimal, working version of a GPT-like transformer in **.....** that can:
 
 - 📦 Load a tiny model (weights stored in a file or hardcoded)
 - 🤖 Perform inference (generate text from a prompt)
@@ -13,17 +13,12 @@ Build a minimal, working version of a GPT-like transformer in **pure C** that ca
 
 ## 🚀 Features
 
-- ✅ Pure C (no external ML libraries)
-- ✅ Character-level tokenizer (ASCII)
-- ✅ Embeddings + Self-Attention + Feedforward layers
-- ✅ Text generation with softmax sampling
 
 ---
 
 ## 🎯 Learning Goals
 
-- Learn GPT architecture step-by-step  
-- Practice low-level memory and matrix operations in C  
+- Learn GPT architecture step-by-step   
 - Build something functional with no dependencies  
 
 ---
